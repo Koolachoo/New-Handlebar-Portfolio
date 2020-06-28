@@ -1,0 +1,50 @@
+/* .img-fluid{
+    height: 200px;
+    width: 200px;
+} */
+
+/* .card-body{
+    background-color: blueviolet;
+} */
+
+
+/*Code for sticky footer*/
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(93, 104, 109);
+    color: white;
+    text-align: center;
+    padding: 2px 0px 2px 0px;
+}
+
+/*change the color of the title of the cards*/
+h2{
+    background-color: rgb(219, 219, 219);
+}
+
+.jumboText{
+    text-align: center;
+}
+
+.card{
+    justify-content: center;
+}
+
+.resumeImg{
+    height: 750px;
+    width: 600px;
+}
+
+.hwOne{
+    vertical-align: bottom;
+}
+/* @media screen and (max-width: 780px) {
+  .resumeImg{
+      width: 500;
+      height: 650;
+  }
+  } */
